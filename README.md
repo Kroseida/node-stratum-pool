@@ -52,6 +52,7 @@ Features
 * ✓ __Yescrypt-0.5__ (BitZeny [ZNY])
 * ✓ __Yescrypt__ (Koto [KOTO], Elicoin,[ELI], etc..)
 * ✓ __YesPoWer__ (Cryply [CRP], Bellcoin [BELL], etc..)
+* ✓ __YesPoWerLITB__ (LightBit [LITB])
 * ✓ __LyraREv2__ (Monacoin [MONA], Mangacoin [MANGA], etc..)
 
 
