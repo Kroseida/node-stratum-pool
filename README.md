@@ -9,11 +9,6 @@ handles payments, website front-end, database layer, mutli-coin/pool support, au
 etc.. The portal also has an [MPOS](https://github.com/MPOS/php-mpos) compatibility mode so that the it can function as
 a drop-in-replacement for [python-stratum-mining](https://github.com/Crypto-Expert/stratum-mining).
 
-
-[![Build Status](https://travis-ci.org/zone117x/node-stratum-pool.png?branch=master)](https://travis-ci.org/zone117x/node-stratum-pool)
-
-[![NPM](https://nodei.co/npm/stratum-pool.png?downloads=true&stars=true)](https://nodei.co/npm/stratum-pool/)
-
 #### Why
 This server was built to be more efficient and easier to setup, maintain and scale than existing stratum poolservers
 which are written in python. Compared to the spaghetti state of the latest
@@ -88,7 +83,7 @@ npm update
 
 Create the configuration for your coin:
 
-Possible options for `algorithm`: *sha256, scrypt, scrypt-jane, scrypt-n, quark, x11, keccak, blake,
+Possible options for `algorithm`: *yespowerlitb, sha256, scrypt, scrypt-jane, scrypt-n, quark, x11, keccak, blake,
 skein, groestl, fugue, shavite3, hefty1, or qubit*.
 
 ```javascript
